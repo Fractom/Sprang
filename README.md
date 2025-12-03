@@ -1,0 +1,2 @@
+# Sprang
+Small Java framework
